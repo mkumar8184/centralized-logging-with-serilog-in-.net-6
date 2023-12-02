@@ -1,0 +1,1 @@
+# global-loggin-with-serlog-in-.net-6
