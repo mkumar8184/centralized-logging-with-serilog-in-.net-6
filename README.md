@@ -1,1 +1,1 @@
-# global-loggin-with-serlog-in-.net-6
+# global-logging-with-serilog-in-.NET-6
